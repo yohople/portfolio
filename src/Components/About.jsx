@@ -10,10 +10,12 @@ const About = () => {
         <article>
           <SectionTitle text="code and coffee" />
           <p className="text-slate-600 mt-8 leading-loose">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi,
-            omnis! Impedit, fuga. Beatae nostrum quidem hic molestiae autem nam
-            illo dicta sit deserunt eos, quibusdam, sed quasi quia quis
-            praesentium!
+            I’m a web developer passionate about creating clean, user-friendly,
+            and responsive websites. I enjoy turning ideas into functional
+            digital experiences, whether it’s building from scratch or improving
+            existing projects. With a focus on modern web technologies and best
+            practices, I aim to deliver solutions that are both visually
+            appealing and efficient.
           </p>
         </article>
       </div>

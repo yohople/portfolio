@@ -1,0 +1,11 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 64 64"
+  width="128"
+  height="128"
+  role="img"
+  aria-label="Man avatar icon"
+>
+  <circle cx="32" cy="20" r="12" fill="#22c55e" />
+  <path d="M16 52c0-9 7-16 16-16s16 7 16 16v4H16z" fill="#16a34a" />
+</svg>
