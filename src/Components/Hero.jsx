@@ -9,7 +9,7 @@ const Hero = () => {
         <article>
           <h1 className="text-7xl font-bold tracking-wider">I'm Yohannes</h1>
           <p className="mt-4 text-3xl text-slate-700 capitalize tracking-wide">
-            frontend developer
+            Web developer
           </p>
           <p className="mt-2 capitalize text-lg text-slate-700 tracking-wide">
             turning ideas into reality
@@ -18,13 +18,13 @@ const Hero = () => {
             <a href="https://github.com/yohnx" target="_blank" rel="referrer">
               <FaGithubSquare className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
             </a>
-            {/* <a
+            <a
               href="https://linkedin.com/yohannes-op"
               target="_blank"
               rel="referrer"
             >
               <FaLinkedin className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
-            </a> */}
+            </a>
             <a href="https://x.com/ivan_zsk" target="_blank" rel="referrer">
               <FaTwitterSquare className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
             </a>
