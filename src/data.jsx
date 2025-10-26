@@ -1,6 +1,7 @@
 import { nanoid } from "nanoid";
 import { FaHtml5, FaJs, FaReact } from "react-icons/fa";
 import { IoPrism } from "react-icons/io5";
+import { SiTypescript } from "react-icons/si";
 
 export const links = [
   { id: nanoid(), href: "#home", text: "home" },
@@ -25,7 +26,7 @@ export const skills = [
   {
     id: nanoid(),
     title: "TypeScript",
-    icon: <FaJs className="h-16 w-16 text-emerald-500" />,
+    icon: <SiTypescript className="h-16 w-16 text-emerald-500" />,
     text: "Expertise in TypeScript, leveraging static typing and modern ECMAScript features to build robust, scalable, and dynamic web applications",
   },
   {
